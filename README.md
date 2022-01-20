@@ -1,4 +1,9 @@
 # generic-inventory-maintainer
+# Live Application Demo
+
+```
+https://inventory-management-generic.herokuapp.com/
+```
 # API routes 
 ## GET all items (GET)
 /
@@ -28,11 +33,7 @@ sample body
 ## DELETE item (DELETE)
 /delete/:id
 
-# Live Application
 
-```
-https://inventory-management-generic.herokuapp.com/
-```
 
 # Run application
 To run the application : 
