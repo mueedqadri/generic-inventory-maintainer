@@ -1,1 +1,1 @@
-# Inventory Manager
+# generic-inventory-maintainer
